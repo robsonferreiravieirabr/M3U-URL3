@@ -45,7 +45,7 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | Qualquer nome   | Login                  | Senha                                 |      Url                               |
 |-----------------|------------------------|---------------------------------------|----------------------------------------|
 | Iptv1  | `Raquel1209`                    |`Comicheo1221`                         |  http://higherpro.xyz:8080    |
-| Iptv2  | `xWP0a5`                        |`674148`                               |  http://1tv41.icu:8080        |
+| Iptv2  |  484134749                      | 328285662                             |  http://trexth.xyz:80         |
 #
 
 
